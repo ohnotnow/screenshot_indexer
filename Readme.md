@@ -17,8 +17,8 @@ Before running this script, ensure you have Python installed on your system (Pyt
 Clone the repository to your local machine using:
 
 ```bash
-git clone [URL to your GitHub repository]
-cd [repository name]
+git clone https://github.com/ohnotnow/screenshot_indexer.git
+cd screenshot_indexer
 ```
 
 Install the required Python packages using:

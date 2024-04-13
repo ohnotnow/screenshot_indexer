@@ -1,0 +1,5 @@
+ollama
+yaspin
+Pillow
+chromadb
+psutil

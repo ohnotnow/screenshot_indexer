@@ -96,7 +96,6 @@ def main():
     parser.add_argument("--query", help="Query the screenshot description db", type=str, default="")
     args = parser.parse_args()
     pattern = args.pattern
-    image_prompt = args.image_prompt
     max_files = args.max_files
     local_chroma = ensure_chromadb_available()
     client = chromadb.HttpClient()
